@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+results/*.npz
+results/v10/ntc_*
+figures/*.pdf
+figures/*.png
